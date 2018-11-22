@@ -11,4 +11,5 @@ public class Principal {
 		Aluno a3 = new Aluno();
 	}
 	//alterado no GTi
+	//alterado no eclipse
 }
